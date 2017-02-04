@@ -43,6 +43,20 @@ def get_unique_random_list(length=100, max_num=100):
     return random.sample(xrange(max_num), length)
 
 
+def rotate_list(list_to_rotate, amount):
+    """
+    Rotate a list.
+
+    Args:
+        list_to_rotate (list):  The list we wish to rotate.
+        amount (int):           How much to rotate the list.
+
+    Returns:
+        list
+    """
+    return list_to_rotate[amount:] + list_to_rotate[:amount]
+
+
 if __name__ == '__main__':
     print(get_random_list())
 

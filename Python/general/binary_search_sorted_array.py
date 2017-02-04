@@ -14,7 +14,7 @@ import utils
 
 def binary_search(list_to_search, num_to_find):
     """
-    Perform Binary Search on a sorted array ofints.
+    Perform Binary Search on a sorted array of ints.
 
     Args:
         list_to_search (list):  The list to search.
@@ -34,6 +34,8 @@ def binary_search(list_to_search, num_to_find):
             first = mid + 1
         else:
             last = mid - 1
+
+    return None, None
 
 
 def main():
