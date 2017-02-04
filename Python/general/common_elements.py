@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-common_elements.py
+common_elements.py:
     Find the common elements of 2 int arrays.
 
 Author: Corwin Brown <blakfeld@gmail.com>
