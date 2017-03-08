@@ -1,3 +1,3 @@
 # Practice
 
-Various Data Structure and Algorithems practice code. Mostly taken from (here)[https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/]
+Various Data Structure and Algorithms practice code. Mostly taken from (here)[https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/]
